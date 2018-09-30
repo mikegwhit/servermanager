@@ -1,0 +1,14 @@
+{
+  "name": "servermanager",
+  "dependencies": {
+    "chalk": "~2.4.1",
+    "nodeclient": "git://github.com/saasworks/nodeclient.git"
+  },
+  "scripts": {},
+  "flattenedDependencies": [
+    "serv-docker",
+    "serv-google",
+    "serv-ubuntu"
+  ],
+  "version": "0.2.1"
+}

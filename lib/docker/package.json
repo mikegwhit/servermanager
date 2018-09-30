@@ -1,0 +1,8 @@
+{
+    "name": "serv-docker",
+    "dependencies": {
+        "chalk": "2.4.1",
+        "nodeclient": "git://github.com/saasworks/nodeclient.git"
+    },
+    "version": "0.2.0"
+}

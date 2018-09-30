@@ -1,0 +1,10 @@
+{
+    "name": "serv-google",
+    "dependencies": {
+        "chalk": "~2.4.1",
+        "nodeclient": "git://github.com/saasworks/nodeclient.git",
+        "serv-docker": "file:../docker"
+    },
+    "scripts": {},
+    "version": "0.1.8"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "serv-ubuntu",
+    "dependencies": {
+        "serv-docker": "file:../docker"
+    },
+    "scripts": {},
+    "version": "0.2.0"
+}

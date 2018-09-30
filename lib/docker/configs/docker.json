@@ -1,0 +1,11 @@
+{
+    "containerName": "sm-instance",
+    "imageName": "servermanager",
+    "imagePath": ".",
+    "machineName": "saasworks",
+    "rootMountFolder": "/opt/saasworks/docker/",
+    "windowsRootMountFolder": "\\\\?\\c:\\saasworks\\docker",
+    "windowsVBoxPath": "\"C:\\Program Files\\Oracle\\VirtualBox\\VBoxManage.exe\"",
+    "volumes": {
+    }
+}

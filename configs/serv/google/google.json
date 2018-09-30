@@ -1,0 +1,13 @@
+{
+    "computeFamily": "cos-stable",
+    "computeName": "saasworks",
+    "computeProject": "cos-cloud",
+    "numCPU": 2,
+    "numMemory": "4GB",
+    "project": "saasworks-cloud",
+    "stage": "production",
+    "username": "saasworks",
+    "zone": "us-west1",
+    "zoneLetter": "b",
+    "ports": []
+}
